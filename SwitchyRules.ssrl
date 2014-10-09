@@ -5,6 +5,7 @@
 #BEGIN
 
 [wildcard]
+*://shadowsocks.org/*
 *://golang.org/*
 *://*.appspot.com/*
 *://*.google.cn/*
