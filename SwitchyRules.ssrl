@@ -1,6 +1,7 @@
 #BEGIN
 
 [wildcard]
+
 *://*.hacg.in/*
 *://*.hearthcrawler.com/*
 *://shadowsocks.org/*
