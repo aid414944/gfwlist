@@ -2,6 +2,7 @@
 
 [wildcard]
 
+*://www.chromium.org/*
 *://*.hacg.in/*
 *://*.hearthcrawler.com/*
 *://shadowsocks.org/*
