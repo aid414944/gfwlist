@@ -2,6 +2,7 @@
 
 [wildcard]
 
+*://gmail.com/*
 *://*.studiofow.com/*
 *://*.chromium.org/*
 *://*.hacg.in/*
