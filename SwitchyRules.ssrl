@@ -2,6 +2,7 @@
 
 [wildcard]
 
+*://*.torproject.org/*
 *://gmail.com/*
 *://*.studiofow.com/*
 *://*.chromium.org/*
