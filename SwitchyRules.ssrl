@@ -2,6 +2,7 @@
 
 [wildcard]
 
+*://*.mingw.org/*
 *://*.torproject.org/*
 *://gmail.com/*
 *://*.studiofow.com/*
