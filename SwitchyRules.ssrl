@@ -2,7 +2,7 @@
 
 [wildcard]
 
-*://static.forvo.com/*
+*://*.forvo.com/*
 *://*.start-ss.biz/*
 *://*.mingw.org/*
 *://*.torproject.org/*
