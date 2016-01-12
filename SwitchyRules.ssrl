@@ -2,6 +2,7 @@
 
 [wildcard]
 
+*://*.googlesource.com/*
 *://*.forvo.com/*
 *://*.24speed.biz/*
 *://*.mingw.org/*
