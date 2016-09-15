@@ -2,7 +2,9 @@
 
 [wildcard]
 
-*://*.googleapis.com
+*://*.steampowered.com/*
+*://*.steamstatic.com/*
+*://*.googleapis.com/*
 *://*.googlesource.com/*
 *://*.forvo.com/*
 *://*.ssgodie.pw/*
