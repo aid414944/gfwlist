@@ -2,6 +2,7 @@
 
 [wildcard]
 
+*://*.digitalocean/*
 *://*.linode.com/*
 *://*.steampowered.com/*
 *://*.steamstatic.com/*
