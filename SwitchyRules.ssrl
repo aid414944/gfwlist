@@ -2,6 +2,7 @@
 
 [wildcard]
 
+*://*.linode.com/*
 *://*.steampowered.com/*
 *://*.steamstatic.com/*
 *://*.googleapis.com/*
