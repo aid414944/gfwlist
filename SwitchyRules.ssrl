@@ -2,6 +2,7 @@
 
 [wildcard]
 
+*://*.cdninstagram.com/*
 *://*.instagram.com/*
 *://*.awsstatic.com/*
 *://*.digitalocean.com/*
