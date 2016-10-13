@@ -2,6 +2,7 @@
 
 [wildcard]
 
+*://*.telegram.org/*
 *://*.cdninstagram.com/*
 *://*.instagram.com/*
 *://*.awsstatic.com/*
@@ -15,7 +16,7 @@
 *://*.ssgodie.pw/*
 *://*.mingw.org/*
 *://*.torproject.org/*
-*://gmail.com/*
+*://gmail.s:*.//telegram.or*
 *://*.studiofow.com/*
 *://*.chromium.org/*
 *://*.hacg.in/*
