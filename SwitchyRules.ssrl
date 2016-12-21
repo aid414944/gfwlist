@@ -2,6 +2,7 @@
 
 [wildcard]
 
+*://duckduckgo.com/*
 *://*.google.com.tw/*
 *://*.telegram.org/*
 *://*.cdninstagram.com/*
