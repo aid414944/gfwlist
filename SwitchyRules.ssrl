@@ -2,6 +2,8 @@
 
 [wildcard]
 
+*://*.static-economist.com/*
+*://*.economist.com/*
 *://*.gingersoftware.com/*
 *://*.doubleclick.net/*
 *://*.grammarly.com/*
