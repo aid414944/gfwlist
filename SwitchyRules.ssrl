@@ -2,6 +2,11 @@
 
 [wildcard]
 
+*://*.crwdcntrl.net/*
+*://*.tvsquared.com/*
+*://*.bluekai.com/*
+*://*.tinypass.com/*
+*://*.maxymiser.net/*
 *://*.static-economist.com/*
 *://*.economist.com/*
 *://*.gingersoftware.com/*
